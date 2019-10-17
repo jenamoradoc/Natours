@@ -7,7 +7,7 @@
     }
 
     @include clearfix;
-
+//el ^ significa que todas las clases que tengan ese simbolo se les aplique ese estilo. 
     [class^="col-"] {
         float: left;
         

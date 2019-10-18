@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Natours Tutorial CSS",
   "main": "index.js",
+  "scripts": {
+    "build": "now"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jenamoradoc/Natours.git"

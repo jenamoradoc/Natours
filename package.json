@@ -4,8 +4,6 @@
   "description": "Natours Tutorial CSS",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w",
-    "build:sass": "node-sass sass/main.scss css/style.css",
     "build": ""
   },
   "repository": {

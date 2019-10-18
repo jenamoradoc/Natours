@@ -6,7 +6,7 @@
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "build:sass": "node-sass sass/main.scss css/style.css",
-    "build": "npm run build:sass"
+    "build": ""
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
     "url": "https://github.com/jenamoradoc/Natours/issues"
   },
   "homepage": "https://github.com/jenamoradoc/Natours#readme",
-  "dependencies": {},
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
   "devDependencies": {
     "node-sass": "^4.12.0"
   }

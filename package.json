@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
-    "build": "npm run compile:sass"
+    "build:sass": "node-sass sass/main.scss css/style.css",
+    "build": "npm run build:sass"
   },
   "repository": {
     "type": "git",

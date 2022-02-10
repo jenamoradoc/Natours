@@ -21,6 +21,6 @@
   "homepage": "https://github.com/jenamoradoc/Natours#readme",
   "dependencies": {},
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
